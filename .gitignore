@@ -1,0 +1,38 @@
+# Data files
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints / outputs
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
